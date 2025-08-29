@@ -1,4 +1,3 @@
-# sales-performance-forecasting-dashboard
 # Sales Performance & Forecasting Dashboard
 
 📊 **Project Overview**  
