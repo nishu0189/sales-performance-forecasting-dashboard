@@ -29,4 +29,4 @@ The dashboard highlights revenue, orders, product/category performance, and sale
 ---
 
 ## 📸 Sample Dashboard Views
-*(Screenshots will be added after project upload)*  
+
