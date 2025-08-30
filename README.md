@@ -24,9 +24,12 @@ The dashboard highlights revenue, orders, product/category performance, and sale
 ---
 
 ## 📂 Project Status
-🚀 Project completed locally – full SQL scripts, Excel sheets, and Power BI dashboard (`.pbix`) will be uploaded soon.  
+🚀 Project completed locally – full SQL scripts, Excel sheets, and Power BI dashboard (`.pbix`).  
 
 ---
 
 ## 📸 Sample Dashboard Views
+<img width="1125" height="619" alt="Screenshot 2025-08-30 122708" src="https://github.com/user-attachments/assets/c2248351-2d4d-4547-9246-b9b1febdf941" />
+
+<img width="1127" height="617" alt="image" src="https://github.com/user-attachments/assets/992ad932-5b9b-4b70-b87b-5f3c41ea7184" />
 
